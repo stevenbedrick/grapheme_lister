@@ -24,7 +24,9 @@ Dependencies:
 
 - The excellent [unicode_utils](https://github.com/lang/unicode_utils) gem
 
-This _should_ work in both Ruby 1.9 and 2.x. It is _intended_ for use on relatively small chunks of text, of the sort that one encounters when debugging irritating Unicode situations. While it will certainly run on larger files, it will not be particularly useful. The code contains some very minimal sanity checks, but I make no promises about its robustness, security, etc.
+This _should_ work in both Ruby 1.9 and 2.x. It is _intended_ for use on relatively small chunks of text, of the sort that one encounters when debugging irritating Unicode situations. While it will certainly run on larger files, it will not be particularly useful. The code contains some very minimal sanity checks, but I make no promises about its robustness, security, etc. 
+
+Also, please do not treat this as an example of how to write good Ruby code...
 
 Comments, questions, etc. can be sent to [Steven Bedrick](mailto:bedricks@ohsu.edu).
 
